@@ -1,6 +1,9 @@
 # Android-Loading-Google-Concept
 A Simple Android Loading View with Google Concept.
 
+**Design Inspired from [
+Google Loading Concept - Material Up!](http://www.materialup.com/posts/google-loading-concept)**
+
 # **How To use**
 Copy **LoadingView.java** to the project.
 
