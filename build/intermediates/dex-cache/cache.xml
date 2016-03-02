@@ -2,32 +2,39 @@
 <items version="2" >
 
     <item
-        jar="/home/mahes/Android/Project/GitHub-Project/Android-Loading-Google-Concept/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jar="/home/mahes/Downloads/FlareGet/Android-Loading-Google-Concept/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/mahes/Android/Project/GitHub-Project/Android-Loading-Google-Concept/app/build/intermediates/pre-dexed/debug/classes-adf2f45aeb747e0f27f5a0fc51b3024f90cb39a9.jar" />
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/mahes/Downloads/FlareGet/Android-Loading-Google-Concept/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_9d5ba0c3dbfe771873220c076b3a23d9dce04efa.jar" />
     </item>
     <item
-        jar="/home/mahes/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jar="/home/mahes/Downloads/FlareGet/Android-Loading-Google-Concept/app/build/intermediates/exploded-aar/com.github.maheswaranapk/google-loading/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/home/mahes/Android/Project/GitHub-Project/Android-Loading-Google-Concept/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-311f6a9b4aca20784fa09692633639bf1f28aafb.jar" />
+        sha1="5f2a41f97f9d620a4723e37f1f1923dad818065c">
+        <dex dex="/home/mahes/Downloads/FlareGet/Android-Loading-Google-Concept/app/build/intermediates/pre-dexed/debug/com.github.maheswaranapk-google-loading-unspecified_1c799b33707726df1653b680d0a7c712cb6c1a2c.jar" />
     </item>
     <item
-        jar="/home/mahes/Android/Project/GitHub-Project/Android-Loading-Google-Concept/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="/home/mahes/Downloads/FlareGet/Android-Loading-Google-Concept/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/mahes/Android/Project/GitHub-Project/Android-Loading-Google-Concept/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-3e9ab49a30b8924c8b8732ca7e2cb60eecea3dac.jar" />
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/mahes/Downloads/FlareGet/Android-Loading-Google-Concept/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_763d8138d961dd8b3ae5b3af3ec170ae9a66c2d9.jar" />
     </item>
     <item
-        jar="/home/mahes/Android/Project/GitHub-Project/Android-Loading-Google-Concept/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/home/mahes/Downloads/FlareGet/Android-Loading-Google-Concept/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/mahes/Android/Project/GitHub-Project/Android-Loading-Google-Concept/app/build/intermediates/pre-dexed/debug/classes-951113ca43fb3937d831b1b07629308e8aa41876.jar" />
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/mahes/Downloads/FlareGet/Android-Loading-Google-Concept/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_116c3194ed09fefde5544e7b77c4f3c7cea22c1c.jar" />
+    </item>
+    <item
+        jar="/home/mahes/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/mahes/Downloads/FlareGet/Android-Loading-Google-Concept/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_ed6b2e65c0c062537358c4743def02d9e156b506.jar" />
     </item>
 
 </items>

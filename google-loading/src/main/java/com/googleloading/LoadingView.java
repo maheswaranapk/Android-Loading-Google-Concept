@@ -1,4 +1,4 @@
-package com.scriptedpapers.androidloadinggoogleconcept;
+package com.googleloading;
 
 import android.animation.Animator;
 import android.animation.AnimatorSet;

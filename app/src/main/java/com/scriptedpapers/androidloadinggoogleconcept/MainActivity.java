@@ -5,6 +5,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
+import com.googleloading.LoadingView;
+
 public class MainActivity extends AppCompatActivity {
 
     LoadingView loadingView;
